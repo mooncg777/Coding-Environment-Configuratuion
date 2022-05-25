@@ -20,3 +20,4 @@ sudo apt-get install vim
 
 vim ~/.vimrc
 
+环境搭建
